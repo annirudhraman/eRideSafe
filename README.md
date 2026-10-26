@@ -3,7 +3,19 @@
 An iOS app for e-bike classification, rider education, safety maps, ride alerts,
 and community safety reports. Built with SwiftUI and Firebase.
 
-## Open and run
+## Copyright and permissions
+
+Copyright (c) 2026 Annirudh Raman. **All rights reserved.**
+
+This repository is public for inspection. It is not open source, and public
+visibility does not grant general permission to reuse, redistribute, or modify
+the original project. See [LICENSE](LICENSE) for the terms and exceptions,
+including rights under GitHub's Terms of Service and third-party licenses.
+
+## Development setup
+
+These instructions are for the copyright holder and authorized developers or
+reviewers.
 
 1. Clone this repository and open `eRideSafe.xcodeproj` in Xcode.
 2. Allow Xcode to resolve the Swift package dependencies.
