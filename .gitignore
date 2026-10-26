@@ -20,3 +20,6 @@ GoogleService-Info.plist
 *.p12
 *.p8
 *.mobileprovision
+
+# Local presentation
+/eRideSafe Presentation.pptx
