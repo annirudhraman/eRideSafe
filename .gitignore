@@ -1,0 +1,22 @@
+# macOS and personal Xcode settings
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Generated build files and temporary work
+/.codex-work/
+DerivedData/
+build/
+.build/
+node_modules/
+__pycache__/
+*.pyc
+
+# Local configuration and signing credentials
+GoogleService-Info.plist
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.mobileprovision
